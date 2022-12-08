@@ -1,6 +1,6 @@
 ### Hi there 👋, Mohan krishnan O
 #### Student want to became a Data Scientist
-![Student want to became a Data Scientist](https://github.com/Mohankrish08)
+![Github](https://github.com/Mohankrish08)
 
 An AI & Data Science Enthusiast, an Undergrad student at KCT'24, majoring in Artificial Intelligence and Data Science, working on projects based on Machine learning and Data Science. I'm a critical thinker and passionately curious.
 
